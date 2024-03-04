@@ -1,2 +1,2 @@
-# drizzle-orm
+# Drizzle ORM
 Nodejs Mysql ORM
