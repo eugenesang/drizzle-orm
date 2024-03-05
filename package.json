@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "Which MySql-Nodejs ORM is the best",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eugenesang/drizzle-orm.git"
+  },
+  "author": "Eugene Sang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/eugenesang/drizzle-orm/issues"
+  },
+  "homepage": "https://github.com/eugenesang/drizzle-orm#readme"
+}
